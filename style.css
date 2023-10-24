@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #d46f4d;
+}
+.card{
+    display: flex;
+}
+.formulaire{
+    background-color: #ffbf66;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    width: 300px;
+    padding: 48px;
+}
+#nom{
+    margin-left: 22px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+#prenom{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+#email{
+    margin-left: 34px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+#message{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+
+}
+#btn{
+    border-radius: 20px;
+    position: relative;
+    left: 184px;
+    
+}
+.img{
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    
+}
+
+#d46f4d
+#ffbf66
+#26474e
